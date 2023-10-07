@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="cpp_trainings" Database="" Version="10000">
+  <Project Name="cpp_trainings" Path="cpp_trainings.project" Active="No"/>
+  <Project Name="cpp-train2" Path="cpp-train2/cpp-train2.project" Active="No"/>
+  <Project Name="template-copy" Path="template-copy/template-copy.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="cpp_trainings" ConfigName="Debug"/>
+      <Project Name="cpp-train2" ConfigName="Debug"/>
+      <Project Name="template-copy" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="cpp_trainings" ConfigName="Debug"/>
+      <Project Name="cpp-train2" ConfigName="Release"/>
+      <Project Name="template-copy" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

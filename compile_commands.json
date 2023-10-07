@@ -1,0 +1,25 @@
+[{
+  "file": "/Users/kyotun/Desktop/cpp-trainings/template-copy/main.cpp",
+  "directory": "/Users/kyotun/Desktop/cpp-trainings/template-copy",
+  "command": "/usr/bin/g++ -c /Users/kyotun/Desktop/cpp-trainings/template-copy/main.cpp -o /Users/kyotun/Desktop/cpp-trainings/template-copy/main.cpp.o -target arm64-apple-darwin22.6.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/Users/kyotun/Desktop/cpp-trainings/template-copy/mainwindow.h",
+  "directory": "/Users/kyotun/Desktop/cpp-trainings/template-copy",
+  "command": "/usr/bin/g++ -c /Users/kyotun/Desktop/cpp-trainings/template-copy/mainwindow.h -o /Users/kyotun/Desktop/cpp-trainings/template-copy/mainwindow.h.o -target arm64-apple-darwin22.6.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/Users/kyotun/Desktop/cpp-trainings/cpp-train2/main.cpp",
+  "directory": "/Users/kyotun/Desktop/cpp-trainings/cpp-train2",
+  "command": "/usr/bin/g++ -c /Users/kyotun/Desktop/cpp-trainings/cpp-train2/main.cpp -o /Users/kyotun/Desktop/cpp-trainings/cpp-train2/main.cpp.o -target arm64-apple-darwin22.6.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/Users/kyotun/Desktop/cpp-trainings/cpp-train2/mainwindow.h",
+  "directory": "/Users/kyotun/Desktop/cpp-trainings/cpp-train2",
+  "command": "/usr/bin/g++ -c /Users/kyotun/Desktop/cpp-trainings/cpp-train2/mainwindow.h -o /Users/kyotun/Desktop/cpp-trainings/cpp-train2/mainwindow.h.o -target arm64-apple-darwin22.6.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/Users/kyotun/Desktop/cpp-trainings/first-try/mainwindow.h",
+  "directory": "/Users/kyotun/Desktop/cpp-trainings",
+  "command": "/usr/bin/clang++ -c /Users/kyotun/Desktop/cpp-trainings/first-try/mainwindow.h -o /Users/kyotun/Desktop/cpp-trainings/first-try/mainwindow.h.o -target arm64-apple-darwin22.6.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -g -Wall"
+ }, {
+  "file": "/Users/kyotun/Desktop/cpp-trainings/first-try/main.cpp",
+  "directory": "/Users/kyotun/Desktop/cpp-trainings",
+  "command": "/usr/bin/clang++ -c /Users/kyotun/Desktop/cpp-trainings/first-try/main.cpp -o /Users/kyotun/Desktop/cpp-trainings/first-try/main.cpp.o -target arm64-apple-darwin22.6.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -g -Wall"
+ }]
