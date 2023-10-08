@@ -1,6 +1,8 @@
 #include <iostream>
 #include <string>
 
+using namespace std;
+
 int main(){
     int fav_num;
     std::string ans;
@@ -11,15 +13,16 @@ int main(){
     std::cin >> fav_num;
     
     std::cout << "That's a good choice!" << std::endl;
+    std::cout << fav_num << " is my favorite number too!" << std::endl;
     
     std::cout << "Your number was:" << fav_num << "." << std::endl; std::cout << "Am I right?" << std::endl;
     
     std::cin >> ans;
     
     if(ans == "Yes"){
-        std::cout << "That's my favorite number too!" << std::endl;
+        std::cout << "Thank god that I understood correctly!" << std::endl;
     }else {
-        std::cout << "Let's try again then..." << std::endl;
+        std::cout << "I think i missheard it. Let's try again..." << std::endl;
     }
     return 0;
 }
