@@ -1,28 +1,23 @@
 #include <iostream>
 #include <string>
+#include <climits>
+#include <cfloat>
 
 using namespace std;
 
 int main(){
-    int fav_num;
-    std::string ans;
     
+    const float cost_per_room {32.5};
+    const float taxe_rate {0.06};
     
-    std::cout << "Enter your favorite number between 1 and 10: ";
+    cout << "Welcome to the cleaning service!" << endl;
+    cout << "How many numbers would you like to be cleaned? ";
     
-    std::cin >> fav_num;
+    int number_of_rooms {0};
+    cin >> number_of_rooms;
     
-    std::cout << "That's a good choice!" << std::endl;
-    std::cout << fav_num << " is my favorite number too!" << std::endl;
+    cout << "Price per room is " << cost_per_room << "$." << endl;
+    cout << "Tax rate is: " << taxe_rate << "$." << endl;
+    cout << "Total cost is: " << cost_per_room*number_of_rooms + cost_per_room*number_of_rooms*taxe_rate << "$." << endl;
     
-    std::cout << "Your number was:" << fav_num << "." << std::endl; std::cout << "Am I right?" << std::endl;
-    
-    std::cin >> ans;
-    
-    if(ans == "Yes"){
-        std::cout << "Thank god that I understood correctly!" << std::endl;
-    }else {
-        std::cout << "I think i missheard it. Let's try again..." << std::endl;
-    }
-    return 0;
 }
